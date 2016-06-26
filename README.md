@@ -3,10 +3,12 @@ Codes for analyzing laboratory data for sediment samples and comparing measured 
 Supports research presented in Fay, E. (2016). Nuclear Magnetic Resonance Diffusion Measurements for Characterization of the Near-Surface. PhD thesis, Stanford University. 
 
 Contains two folders:
+
 - lab_data_analysis : analyze laboratory data for sediment samples using clustering and regression algorithms
 - fit_models : compare measured signal decays to simulated deacys and select models with the best fit to the lab data
 
 lab_data_analysis contents:
+
 -Cluster_analysis_lab_data.py: 
 
       Code to run cluster analysis on laboratory data for predicting diffusion and internal gradients
